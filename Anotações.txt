@@ -1,0 +1,31 @@
+AULA 1:
+
+Aprender as palavrinhas. Nao ter medo de falar nem de errar.
+Porgramar é ensinar o computador, entenda os padrões que o PC precisa para aprender!
+
+* Algoritmo:
+	Passo a passo
+	Conjunto de Regras
+* Lógica de Programação:
+	Maneira de pensar
+* Sintaxe:
+	Maneira correta de escrever
+
+Os caras ainda idicam pluginx que te ajudam afu, brabos demais.
+
+Sempre que tiver duvidas sobre css pesquisa no google Box Model css ele mostra perfeitamente como funciona
+todos os atributos do css.
+
+Vamos falar de tamanhos: Unidades de medida fixas são em pixel (PX)
+Porcentagem vai ser a porcentagem em PX: 50%
+REM é a multiplicação só que não se colcoa com vircula e sim com poonto
+
+Moobal frist design, faz primeiro para o cell, depois tablet e por ultimo desktop.
+
+Podemos colcoar mais de uma calss em uma mesma tag
+
+Porque assim não funcionou ?
+main,
+#home .image {
+  margin: 0;
+}
